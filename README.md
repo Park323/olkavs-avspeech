@@ -189,13 +189,12 @@ The OLKAVS Scripts are released under MIT license.
 ## Citation
 
 ```
-@misc{park2023olkavs,
-    title={OLKAVS: An Open Large-Scale Korean Audio-Visual Speech Dataset},
+@inproceedings{park2023olkavs,
+    title={OLKAVS: AN OPEN LARGE-SCALE KOREAN AUDIO-VISUAL SPEECH DATASET},
     author={Jeongkyun Park and Jung-Wook Hwang and Kwanghee Choi and Seung-Hyun Lee and Jun Hwan Ahn and Rae-Hong Park and Hyung-Min Park},
-    year={2023},
-    eprint={2301.06375},
-    archivePrefix={arXiv},
-    primaryClass={cs.MM}
+    year={2024},
+    booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing
+}
 }
 ```
 
